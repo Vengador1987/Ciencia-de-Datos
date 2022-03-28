@@ -1,0 +1,76 @@
+
+500cc/MotoGP champions
+Season	Country	Rider	Constructor	Grands Prix	Poles	Wins	Podiums	Fastest laps	Points	Margin
+1949	 United Kingdom	Leslie Graham	United Kingdom AJS	6	—	2	3	3	30	2
+1950	 Italy	Umberto Masetti	Italy Gilera	6	—	2	4	1	28	1
+1951	 United Kingdom	Geoff Dukedagger	United Kingdom Norton	8	—	4	4	2	35	4
+1952	 Italy	Umberto Masetti	Italy Gilera	8	—	2	4	2	28	3
+1953	 United Kingdom	Geoff Duke	Italy Gilera	8	—	4	5	1	38	14
+1954	 United Kingdom	Geoff Duke	Italy Gilera	8	—	5	6	4	40	20
+1955	 United Kingdom	Geoff Duke	Italy Gilera	8	—	4	5	6	36	6
+1956	 United Kingdom	John Surtees	Italy MV Agusta	6	—	3	3	2	24	8
+1957	 Italy	Libero Liberati	Italy Gilera	6	—	4	5	1	32	12
+1958	 United Kingdom	John Surteesdagger	Italy MV Agusta	7	—	6	6	5	32	12
+1959	 United Kingdom	John Surteesdagger	Italy MV Agusta	7	—	7	7	6	32	10
+1960	 United Kingdom	John Surteesdagger	Italy MV Agusta	7	—	5	6	6	46	20
+1961	 Rhodesia and Nyasaland	Gary Hockingdagger	Italy MV Agusta	10	—	7	7	9	48	8
+1962	 United Kingdom	Mike Hailwood	Italy MV Agusta	8	—	5	5	4	40	11
+1963	 United Kingdom	Mike Hailwood	Italy MV Agusta	8	—	7	7	7	40	19
+1964	 United Kingdom	Mike Hailwood	Italy MV Agusta	9	—	7	7	6	40	15
+1965	 United Kingdom	Mike Hailwood	Italy MV Agusta	10	—	8	8	8	48	20
+1966	 Italy	Giacomo Agostini	Italy MV Agusta	9	—	3	8	2	36	6
+1967	 Italy	Giacomo Agostini	Italy MV Agusta	10	—	5	8	4	46	0
+1968	 Italy	Giacomo Agostinidagger	Italy MV Agusta	10	—	10	10	10	48	14
+1969	 Italy	Giacomo Agostinidagger	Italy MV Agusta	12	—	10	10	10	105	58
+1970	 Italy	Giacomo Agostinidagger	Italy MV Agusta	11	—	10	10	9	90	28
+1971	 Italy	Giacomo Agostinidagger	Italy MV Agusta	11	—	8	8	9	90	32
+1972	 Italy	Giacomo Agostinidagger	Italy MV Agusta	13	—	11	11	12	105	19
+1973	 United Kingdom	Phil Read	Italy MV Agusta	11	—	4	8	1	84	20
+1974	 United Kingdom	Phil Read	Italy MV Agusta	10	4	4	7	1	82	13
+1975	 Italy	Giacomo Agostini	Japan Yamaha	10	2	4	6	4	84	8
+1976	 United Kingdom	Barry Sheene	Japan Suzuki	10	4	5	6	3	72	24
+1977	 United Kingdom	Barry Sheene	Japan Suzuki	11	7	6	7	6	107	27
+1978	 United States	Kenny Roberts	Japan Yamaha	11	2	4	7	6	110	10
+1979	 United States	Kenny Roberts	Japan Yamaha	12	5	5	7	4	113	24
+1980	 United States	Kenny Roberts	Japan Yamaha	8	2	3	6	4	87	15
+1981	 Italy	Marco Lucchinelli	Japan Suzuki	11	7	5	6	5	105	11
+1982	 Italy	Franco Uncini	Japan Suzuki	12	1	5	7	1	103	27
+1983	 United States	Freddie Spencer	Japan Honda	12	6	6	10	3	144	2
+1984	 United States	Eddie Lawson	Japan Yamaha	12	2	4	9	3	142	31
+1985	 United States	Freddie Spencer*	Japan Honda	12	10	7	10	6	141	8
+1986	 United States	Eddie Lawson	Japan Yamaha	11	7	7	10	6	139	22
+1987	 Australia	Wayne Gardner	Japan Honda	15	10	7	11	8	178	20
+1988	 United States	Eddie Lawson	Japan Yamaha	15	2	7	12	5	252	23
+1989	 United States	Eddie Lawson	Japan Honda	15	1	4	13	3	228	17.5
+1990	 United States	Wayne Rainey	Japan Yamaha	15	3	7	14	6	255	67
+1991	 United States	Wayne Rainey	Japan Yamaha	15	6	6	13	8	233	9
+1992	 United States	Wayne Rainey	Japan Yamaha	13	0	3	8	3	140	4
+1993	 United States	Kevin Schwantz	Japan Suzuki	14	6	4	11	2	248	34
+1994	 Australia	Mick Doohan	Japan Honda	14	6	9	14	7	317	143
+1995	 Australia	Mick Doohan	Japan Honda	13	9	7	10	7	248	33
+1996	 Australia	Mick Doohan	Japan Honda	15	8	8	12	4	309	64
+1997	 Australia	Mick Doohan	Japan Honda	15	12	12	14	11	340	143
+1998	 Australia	Mick Doohan	Japan Honda	14	8	8	11	3	260	52
+1999	 Spain	Àlex Crivillé	Japan Honda	16	2	6	10	2	267	57
+2000	 United States	Kenny Roberts Jr.	Japan Suzuki	16	4	4	9	3	258	49
+2001	 Italy	Valentino Rossi	Japan Honda	16	4	11	13	10	325	106
+2002	 Italy	Valentino Rossi	Japan Honda	16	7	11	15	9	355	140
+2003	 Italy	Valentino Rossi	Japan Honda	16	9	9	16	12	357	80
+2004	 Italy	Valentino Rossi	Japan Yamaha	16	5	9	11	3	304	47
+2005	 Italy	Valentino Rossi	Japan Yamaha	17	5	11	16	6	367	147
+2006	 United States	Nicky Hayden	Japan Honda	17	1	2	10	2	252	5
+2007	 Australia	Casey Stoner	Italy Ducati	18	4	10	14	6	367	125
+2008	 Italy	Valentino Rossi	Japan Yamaha	18	2	9	16	6	373	93
+2009	 Italy	Valentino Rossi	Japan Yamaha	17	7	6	13	6	306	45
+2010	 Spain	Jorge Lorenzo	Japan Yamaha	18	7	9	16	4	383	138
+2011	 Australia	Casey Stoner	Japan Honda	17	12	10	16	7	350	90
+2012	 Spain	Jorge Lorenzo	Japan Yamaha	18	7	6	16	5	350	18
+2013	 Spain	Marc Márquez	Japan Honda	18	9	6	16	11	334	4
+2014	 Spain	Marc Márquez	Japan Honda	18	13	13	14	12	362	67
+2015	 Spain	Jorge Lorenzo	Japan Yamaha	18	5	7	12	6	330	5
+2016	 Spain	Marc Márquez	Japan Honda	18	7	5	12	4	298	49
+2017	 Spain	Marc Márquez	Japan Honda	18	8	6	12	3	298	37
+2018	 Spain	Marc Márquez	Japan Honda	18	7	9	14	7	321	76
+2019	 Spain	Marc Márquez	Japan Honda	19	10	12	18	12	420	151
+2020	 Spain	Joan Mir	Japan Suzuki	14	0	1	7	0	171	13
+2021	 France	Fabio Quartararo	Japan Yamaha	18	5	5	10	5	278	26
